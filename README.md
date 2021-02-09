@@ -7,3 +7,5 @@
 -  touch (create new file)
 -  nano (edit a file)
 -  cat (file discription)
+## clone the repositry
+- git clone repositorylink
