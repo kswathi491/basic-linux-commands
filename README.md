@@ -1,2 +1,10 @@
-# basic-linux-commands
-linux commands for day 1git hub workshop
+# Basic linux commands:
+_ cd (change directory forward)
+_ pwd (present working directory)
+_ ls (list of files)
+_ rm (remove)
+_ mkdir (create a directory or folder)
+_ rmdir (remove directory)
+_touch (create new file)
+_nano (edit a file)
+_ cat (file discription)
